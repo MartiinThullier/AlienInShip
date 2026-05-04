@@ -1233,3 +1233,34 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.04-10.25.24:885][937]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 620.320923
 [2026.05.04-10.25.25:886][940]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.04-10.25.25:886][940]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 620.987793, Update Interval: 346.583466
+[2026.05.04-10.29.43:912][603]LogSlate: Took 0.001300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.05.04-10.29.46:899][914]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.04-10.29.46:924][914]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.04-10.29.46:936][915]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.04-10.29.48:418][ 91]LogContentBrowser: Attempting asset rename: NewFolder -> BP
+[2026.05.04-10.29.48:418][ 91]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.04-10.30.08:280][519]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.05.04-10.30.08:292][519]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.05.04-10.30.08:302][519]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.05.04-10.30.08:314][519]LogAutomationController: Ignoring very large delta of 6.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.05.04-10.30.08:332][521]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.05.04-10.30.14:094][175]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
+[2026.05.04-10.30.14:103][175]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.05.04-10.30.17:160][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.05.04-10.30.17:165][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.04-10.30.17:223][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_Enemy] ([2] browsable assets)...
+[2026.05.04-10.30.17:223][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Enemy]
+[2026.05.04-10.30.17:223][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../../Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/BP/BP_Enemy.uasset" SILENT=true
+[2026.05.04-10.30.17:233][511]LogSavePackage: Moving output files for package: /Game/BP/BP_Enemy
+[2026.05.04-10.30.17:233][511]LogSavePackage: Moving '../../../../../../Users/m.thullier/Documents/Unreal Projects/MyProject5/Saved/BP_EnemyE488B2C646A86E9F1E1A6B92A67421E6.tmp' to '../../../../../../Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/BP/BP_Enemy.uasset'
+[2026.05.04-10.30.17:247][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.700 ms
+[2026.05.04-10.30.17:305][511]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.04-10.30.17:305][511]LogContentValidation: Enabled validators:
+[2026.05.04-10.30.17:305][511]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.04-10.30.17:305][511]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.04-10.30.17:305][511]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.04-10.30.17:305][511]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.04-10.30.17:305][511]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.04-10.30.17:305][511]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.04-10.30.17:305][511]AssetCheck: /Game/BP/BP_Enemy Validating asset
+[2026.05.04-10.30.17:326][511]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/m.thullier/Documents/Unreal Projects/MyProject5/Saved/SourceControl/UncontrolledChangelists.json
