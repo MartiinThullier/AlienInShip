@@ -5,8 +5,29 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/BP/BP_Enemy.uasset",
-				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/BP/BP_Menace.uasset"
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/BP/BP_Menace.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/BP/BP_Vent.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/IZ/I4P1G79OCD4O3RXHUJ93D1.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/JD/EUJK9XA2VP9K17S47EPK4N.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/6Q/Y2GKSWD98IZE3724RAEHEC.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/S2/UDCZ5R5CH6T02SD842YCEQ.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/5F/2JVJAZC1FK0KFI6IGOCW0Z.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/46/5AD2GTP8CAVO8N52GZCVVQ.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/F1/KPP7CO2YHFRBJM4GZVYRYH.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/Q0/TQTKO79AP9MPP1LCKYJN0S.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/E9/X3NDCSITQMGEO41P3JV1EF.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/49/OLZSGNCQ458T2PVPYC9TDG.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/YB/JREH3MTTM7ZNDQPP3QMKOM.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8C/B0L930EKQ925SVHOMMAG4E.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/SZ/QVLGIBU8CNEVODZ7001NWZ.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/3F/CC0FZW3N5SJR4VWX2FS8O5.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/JX/U6A4CKWTREJEAIV3TN9HRT.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/SF/5VH03N57ERW600SXZORUO9.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/8G/8LL1M5OJAJ1RMIARV5C22B.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/O9/Q3S9U9IBD6GR45STKKFIWM.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/U1/MWP95Y2D9HCJ5CC6DA17AU.uasset",
+				"C:/Users/m.thullier/Documents/Unreal Projects/MyProject5/Content/BP/BP_Enemy.uasset"
 			]
 		}
 	]
