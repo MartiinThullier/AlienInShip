@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mathu/AlienInShip/Content/Scene/MainLevel.umap",
+				"C:/Users/mathu/AlienInShip/Content/BP/BP_Menace.uasset",
+				"C:/Users/mathu/AlienInShip/Content/sounds/Voicy_Among_Us_-_going_in_vent.uasset",
 				"C:/Users/e.denue/Desktop/GithubProjects/AlienInShip/Content/Scene/SubLevel_3.umap",
 				"C:/Users/e.denue/Desktop/GithubProjects/AlienInShip/Content/Scene/MainLevel.umap",
 				"C:/Users/e.denue/Desktop/GithubProjects/AlienInShip/Content/Scene/SubLevel_1.umap",
